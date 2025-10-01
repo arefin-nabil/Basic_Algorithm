@@ -1,0 +1,26 @@
+Hi, This file is to keep my notes about how can i push my codes from vs code to github.
+
+here is the main code which i will have to use daily.
+
+git add .
+git commit -am "Commit message here"
+git push origin master
+
+if i don't have any new files then i dont need to use 
+git add .
+line
+
+rest two lines have to use.
+
+Hi, this is demo text for my repo.
+
+
+Conceptual
+https://github.com/phitronio/Conceptual-Sessions-Code/tree/main/Batch%207
+
+Data Structure
+https://github.com/phitronio/Batch-7-cpp-for-dsa
+
+Algorithm
+https://github.com/phitronio/Batch-7-Introduction-to-Algorithms
+
